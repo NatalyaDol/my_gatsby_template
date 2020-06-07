@@ -35,6 +35,11 @@ https://www.gatsbyjs.org/packages/gatsby-plugin-intl/?=internati
 this too https://gatsby-starter-default-intl.netlify.app/de/
 !!!!!!
 
+=======   III. set up gatsby-plugin-i18n======
+DEMO works in the SAFARI https://gatsby-starter-default-i18n.netlify.app/en/
+GitHub https://github.com/angeloocana/gatsby-plugin-i18n
+
+
 
 
 
