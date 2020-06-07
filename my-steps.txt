@@ -28,5 +28,14 @@ open this http://192.168.1.254:9000/
 
 ================END ===============
 
+!!!!! 
+The gatsby-plugin-intl DOESN't work in the Safari
+https://www.gatsbyjs.org/packages/gatsby-plugin-intl/?=internati
+
+this too https://gatsby-starter-default-intl.netlify.app/de/
+!!!!!!
+
+
+
 
 
