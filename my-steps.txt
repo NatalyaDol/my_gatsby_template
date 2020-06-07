@@ -1,0 +1,32 @@
+gatsby develop
+gatsby build
+
+for local server
+1 gatsby build
+2 gatsby serve -H 0.0.0.0
+
+=== I. global install Gatsby ===
+step by step here   
+https://www.gatsbyjs.org/docs/quick-start
+
+1. # npm install -g gatsby-cli
+was an error
+
+2. # sudo npm install -g gatsby-cli
+it's ok
+
+3. # gatsby new gatsby-site
+4. # cd gatsby-site
+5. # gatsby develop
+
+================END ===============
+
+==== II.  USE the serve for iPad Safari===
+1 gatsby build
+2 gatsby serve -H 0.0.0.0
+open this http://192.168.1.254:9000/
+
+================END ===============
+
+
+
